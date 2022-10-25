@@ -2,7 +2,7 @@
 
 This is a Pytorch implementation for the paper "Real-time head pose estimation and masked face classification for RGB facial image via knowledge distillation" published in Information Sciences 2022
 
-Author: Chien Thai, Viet Tran, Minh Bui, Dat Nguyen, Huong Ninh, and Hai Tran
+Authors: Chien Thai, Viet Tran, Minh Bui, Dat Nguyen, Huong Ninh, and Hai Tran
 
 [[PDF Version](https://drive.google.com/file/d/1kRrHh8G9z4u8YdqlUnlsm3doJZYQUfIC/view?usp=sharing)]
 [[Modified Dataset](https://drive.google.com/drive/folders/19y6BCiMrV2GzD_v81_iRZ59E4IvcyD7h?usp=sharing)]
